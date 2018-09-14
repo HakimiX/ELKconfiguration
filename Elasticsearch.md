@@ -34,12 +34,12 @@ Navigate to the Body tab in postman and enter the following query:
 
 ```javascript
 {
-	"_source":["Vrvirksomhed.virksomhedMetadata.nyesteNavn.navn"],
-	"query":{
-		"term":{
-			"Vrvirksomhed.cvrNummer":"28866410"
-		}
+"_source":["Vrvirksomhed.virksomhedMetadata.nyesteNavn.navn"],
+"query":{
+	"term":{
+		"Vrvirksomhed.cvrNummer":"28866410"
 	}
+}
 }
 ```
 
