@@ -38,3 +38,8 @@ This query uses a company's cvr number to fetch the company's current name.
 Below is the JSON response from distribution.virk.dk endpoint _/cvr-permanent/virksomhed/search_
 
 ![text](https://github.com/HakimiX/ELKconfiguration/blob/master/images/PostResponse.png)
+
+If there is no company that meets the search terms, you get the following response. `hits {"total": 0}`
+shows how many documents in total that meets the search terms, in this case none. 
+
+![text](https://github.com/HakimiX/ELKconfiguration/blob/master/images/PostRequestEmpty.png)
