@@ -29,3 +29,4 @@ and enter username and password.
 
 You should now be authorized to make HTTP request to the distribution.virk.dk endpoint _/cvr-permanent/virksomhed/search_
 
+![text](https://github.com/HakimiX/ELKconfiguration/blob/master/images/PostRequest.png)
