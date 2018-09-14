@@ -22,6 +22,7 @@ To confirm that Elasticsearch is started navigate to [localhost](http://localhos
 ```
 
 The distribution.virk.dk endpoint _/cvr-permanent/virksomhed/search_ requires authorization. 
-Generate a basic authorization token by navigating to the Authorization tab and entering username and password. 
+Generate a [basic authorization](https://www.getpostman.com/docs/v6/postman/sending_api_requests/authorization) token by navigating to the Authorization tab. Select Basic Auth 
+and enter username and password. 
 
 ![text](https://github.com/HakimiX/ELKconfiguration/blob/master/images/authorizationLogin.png)
