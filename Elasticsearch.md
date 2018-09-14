@@ -33,3 +33,6 @@ This is refered to as the [Query DSL](https://www.elastic.co/guide/en/elasticsea
 Navigate to the Body tab in postman and enter the following query:
 
 ![text](https://github.com/HakimiX/ELKconfiguration/blob/master/images/PostRequest.png)
+
+This query should should fetch the following data from distribution.virk.dk 
+
