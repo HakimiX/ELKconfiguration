@@ -26,3 +26,6 @@ Generate a [basic authorization](https://www.getpostman.com/docs/v6/postman/send
 and enter username and password. 
 
 ![text](https://github.com/HakimiX/ELKconfiguration/blob/master/images/authorizationLogin.png)
+
+You should now be authorized to make HTTP request to the distribution.virk.dk endpoint _/cvr-permanent/virksomhed/search_
+
