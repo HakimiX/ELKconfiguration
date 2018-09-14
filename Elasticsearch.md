@@ -34,5 +34,6 @@ Navigate to the Body tab in postman and enter the following query:
 
 ![text](https://github.com/HakimiX/ELKconfiguration/blob/master/images/PostRequest.png)
 
-This query should should fetch the following data from distribution.virk.dk 
+This query should should fetch the following data from distribution.virk.dk.
 
+![text](https://github.com/HakimiX/ELKconfiguration/blob/master/images/PostResponse.png)
