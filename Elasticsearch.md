@@ -24,3 +24,4 @@ To confirm that Elasticsearch is started navigate to [localhost](http://localhos
 The distribution.virk.dk endpoint _/cvr-permanent/virksomhed/search_ requires authorization. 
 Generate a basic authorization token by navigating to the Authorization tab and entering username and password. 
 
+![text](https://github.com/HakimiX/ELKconfiguration/blob/master/images/authorizationLogin.png)
