@@ -1,5 +1,7 @@
 # ELK Stack Configuration
 
+![alt text](http://netblog.su/wp-content/uploads/2018/05/ELA_1_001_logos.png)
+
 ## Elasticsearch
 
 Search and Analytics Engine
