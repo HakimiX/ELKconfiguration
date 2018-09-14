@@ -1,0 +1,3 @@
+# ELK Stack Configuration
+
+## Elasticsearch
