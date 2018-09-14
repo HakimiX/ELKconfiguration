@@ -32,15 +32,4 @@ Elasticsearch provides a JSON-style domain specific language that you can use to
 This is refered to as the [Query DSL](https://www.elastic.co/guide/en/elasticsearch/reference/6.4/query-dsl.html) 
 Navigate to the Body tab in postman and enter the following query:
 
-```javascript
-{
-"_source":["Vrvirksomhed.virksomhedMetadata.nyesteNavn.navn"],
-"query":{
-	"term":{
-		"Vrvirksomhed.cvrNummer":"28866410"
-	}
-}
-}
-```
-
 ![text](https://github.com/HakimiX/ELKconfiguration/blob/master/images/PostRequest.png)
